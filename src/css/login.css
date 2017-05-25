@@ -1,0 +1,16 @@
+.form {
+    border-radius: 5px;
+    width: 400px;
+    font-size: 22px;
+    margin-top: 16%;
+    margin-left: 36%;
+    background-color: #e2e2e2;
+    padding-bottom: 25px;
+
+}
+
+#login {
+    width: 252px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
